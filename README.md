@@ -4,7 +4,7 @@ Project Overview
 
 This project performs customer segmentation in an e-commerce context using RFM (Recency, Frequency, Monetary) analysis combined with K-Means clustering. The goal is to understand customer behavior, identify high-value segments, and implement targeted marketing strategies to optimize business outcomes.
 
-Use Case
+### Use Case
 
 Segment customers based on their purchasing behavior.
 
