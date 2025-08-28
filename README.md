@@ -35,10 +35,9 @@ Improve marketing efficiency and engagement through targeted strategies.
 - Monetary: How much a customer spends.
 
 - K-Means Clustering
+- Applied to RFM metrics to identify distinct customer segments.
 
-  Applied to RFM metrics to identify distinct customer segments.
-
-Customers are grouped into actionable clusters to inform marketing strategies.
+- Customers are grouped into actionable clusters to inform marketing strategies.
 
 ### Customer Segments and Recommendations
 Cluster	Segment Name	Characteristics	Recommendations
@@ -63,10 +62,10 @@ Increases revenue via conversion, cross-selling, and upselling opportunities.
 
 Supports strategic decision-making aligned with customer needs.
 
-Technologies Used
+### Technologies Used
 
-Programming Language: R / Python
+- Programming Language: R / Python
 
-Libraries: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
+- Libraries: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
 
-Techniques: RFM Analysis, K-Means Clustering, Data Visualization
+- Techniques: RFM Analysis, K-Means Clustering, Data Visualization
